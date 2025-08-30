@@ -50,7 +50,7 @@ spring.jpa.show-sql=true
 
 ```markdown
 ![inicio](docs/images/inicial.png)
-![Libros Disponibles](docs/images/LibrosDisponibles)
+![Libros Disponibles](docs/images/LibrosDisponibles.png)
 ![Registrar Libros](docs/images/RegistrarLibro.png)
 ![Mis Libros](docs/images/MisLibros.png)
 
