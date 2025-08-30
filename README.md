@@ -48,12 +48,12 @@ spring.jpa.show-sql=true
 
 ## 📸 Capturas de pantalla
 
-_Añade aquí imágenes de la aplicación para ilustrar el CRUD._  
-Puedes subir imágenes a la carpeta `/docs/images` del repositorio y referenciarlas así en el README:
-
 ```markdown
-![Lista de Libros](docs/images/lista-libros.png)
-![Formulario de Libro](docs/images/formulario-libro.png)
+![inicio](docs/images/inicial.png)
+![Libros Disponibles](docs/images/LibrosDisponibles)
+![Registrar Libros](docs/images/RegistrarLibro.png)
+![Mis Libros](docs/images/MisLibros.png)
+
 ```
 
 ## 📂 Estructura del proyecto
