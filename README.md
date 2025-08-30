@@ -65,12 +65,10 @@ spring.jpa.show-sql=true
 ![Mis Libros](https://raw.githubusercontent.com/omarpedraza1979/springboot-crud-web-thymeleaf-tiendaLibros/main/docs/images/MisLibros.png)
 
 
-
 ```
 
 ## 📂 Estructura del proyecto
-
-```
+```bash
 
 ├───src
 │   ├───main
@@ -95,3 +93,7 @@ spring.jpa.show-sql=true
 
 ## 👨‍💻 Autor
 Proyecto desarrollado por **Omar Pedraza** como parte de práctica en **Spring Boot + Thymeleaf**.
+
+## 📜 Licencia
+Este proyecto está bajo la licencia [MIT](LICENSE).  
+Eres libre de usarlo, modificarlo y distribuirlo con fines personales o educativos.
