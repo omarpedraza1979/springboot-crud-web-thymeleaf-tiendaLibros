@@ -48,11 +48,21 @@ spring.jpa.show-sql=true
 
 ## 📸 Capturas de pantalla
 
-![inicio](https://raw.githubusercontent.com/omarpedraza1979/springboot-crud-web-thymeleaf-tiendaLibros/main/docs/images/inicial.png)
-![Libros Disponibles](https://raw.githubusercontent.com/omarpedraza1979/springboot-crud-web-thymeleaf-tiendaLibros/main/docs/images/LibrosDisponibles.png)
-![Registrar Libros](https://raw.githubusercontent.com/omarpedraza1979/springboot-crud-web-thymeleaf-tiendaLibros/main/docs/images/RegistrarLibro.png)
-![Mis Libros](https://raw.githubusercontent.com/omarpedraza1979/springboot-crud-web-thymeleaf-tiendaLibros/main/docs/images/MisLibros.png)
+**Pantalla principal**
 
+![inicio](https://raw.githubusercontent.com/omarpedraza1979/springboot-crud-web-thymeleaf-tiendaLibros/main/docs/images/inicial.png)
+
+**Consulta de Libros disponibles**
+
+![Libros Disponibles](https://raw.githubusercontent.com/omarpedraza1979/springboot-crud-web-thymeleaf-tiendaLibros/main/docs/images/LibrosDisponibles.png)
+
+**Registro de Libros**
+
+![Registrar Libros](https://raw.githubusercontent.com/omarpedraza1979/springboot-crud-web-thymeleaf-tiendaLibros/main/docs/images/RegistrarLibro.png)
+
+**Mis Libros**
+
+![Mis Libros](https://raw.githubusercontent.com/omarpedraza1979/springboot-crud-web-thymeleaf-tiendaLibros/main/docs/images/MisLibros.png)
 
 
 
