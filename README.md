@@ -48,11 +48,12 @@ spring.jpa.show-sql=true
 
 ## 📸 Capturas de pantalla
 
-```markdown
-![inicio](docs/images/inicial.png)
-![Libros Disponibles](https://github.com/omarpedraza1979/springboot-crud-web-thymeleaf-tiendaLibros/blob/main/docs/images/LibrosDisponibles.png)
-![Registrar Libros](docs/images/RegistrarLibro.png)
-![Mis Libros](docs/images/MisLibros.png)
+![inicio](https://raw.githubusercontent.com/omarpedraza1979/springboot-crud-web-thymeleaf-tiendaLibros/main/docs/images/inicial.png)
+![Libros Disponibles](https://raw.githubusercontent.com/omarpedraza1979/springboot-crud-web-thymeleaf-tiendaLibros/main/docs/images/LibrosDisponibles.png)
+![Registrar Libros](https://raw.githubusercontent.com/omarpedraza1979/springboot-crud-web-thymeleaf-tiendaLibros/main/docs/images/RegistrarLibro.png)
+![Mis Libros](https://raw.githubusercontent.com/omarpedraza1979/springboot-crud-web-thymeleaf-tiendaLibros/main/docs/images/MisLibros.png)
+
+
 
 
 ```
