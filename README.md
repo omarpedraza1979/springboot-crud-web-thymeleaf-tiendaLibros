@@ -70,6 +70,8 @@ spring.jpa.show-sql=true
 ## 📂 Estructura del proyecto
 ```bash
 
+├───docs
+│   └───images
 ├───src
 │   ├───main
 │   │   ├───java
